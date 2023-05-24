@@ -1,7 +1,7 @@
-@import url(assets/material-design/css/tokens.css);
-@import url(assets/material-design/css/colors.module.css);
-@import url(assets/material-design/css/typography.module.css);
+@import url(tokens.css);
+@import url(colors.module.css);
+@import url(typography.module.css);
 /* @import url(theme.light.css) (prefers-color-scheme: light); */
 /* @import url(theme.dark.css) (prefers-color-scheme: dark); */
-@import url(assets/material-design/css/theme.light.css);
-@import url(assets/material-design/css/theme.dark.css);
+@import url(theme.light.css);
+@import url(theme.dark.css);
