@@ -5,5 +5,5 @@ import { routes } from './app.routes';
 import 'zone.js';
 
 export const appConfig: ApplicationConfig = {
-  providers: [provideRouter(routes) ]
+  providers: [provideRouter(routes)],
 };
